@@ -1,4 +1,4 @@
-//Laços de repetição
+//LaÃ§os de repetiÃ§Ã£o
 #include<stdio.h>
 main(){
 	int i;
@@ -44,4 +44,4 @@ main(){
 	*/
 	//for (;;) - infinito
 	//while(1) - infinito
-	//brak - para o laço
+	//break - para o laÃ§o
